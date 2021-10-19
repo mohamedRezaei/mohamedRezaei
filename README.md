@@ -1,5 +1,3 @@
-<code>hey everyone 👋</code>
-
 - 👋 Hi, I’m @mohamedRezaei
 - 👀 I’m interested in web developing 
 - 🌱 I’m currently learning html css javascript react js
